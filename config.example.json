@@ -1,0 +1,5 @@
+{
+  "generateScript": "path/to/generate_ac6.py",
+  "templateAc6": "path/to/template.ac6",
+  "outputPath": ""
+}
